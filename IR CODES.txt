@@ -1,0 +1,370 @@
+ESTUFA ORBEGOZO - ON-OFF
+Encoding  : NEC
+12:47:29.802 -> unsigned int  data = 0xFF31CE;
+12:47:28.793 -> Code      : FF31CE (32 bits)
+
+ESTUFA ORBEGOZO - Temp UP
+12:48:01.940 -> Encoding  : NEC
+12:48:01.940 -> Code      : FF19E6 (32 bits)
+12:48:02.990 -> unsigned int  data = 0xFF19E6;
+
+ESTUFA ORBEGOZO - Temp DOWN
+12:48:23.666 -> Encoding  : NEC
+12:48:23.700 -> Code      : FF29D6 (32 bits)
+12:48:24.745 -> unsigned int  data = 0xFF29D6;
+
+TELE MENJADOR ON OFF
+13:17:20.803 -> Encoding  : SONY
+13:17:20.803 -> Code      : A90 (12 bits)
+13:17:21.274 -> unsigned int  data = 0xA90;
+
+TELE MENJADOR VolDown
+13:17:46.678 -> Encoding  : SONY
+13:17:46.712 -> Code      : C90 (12 bits)
+13:17:47.153 -> unsigned int  data = 0xC90;
+
+TELE MENJADOR VolUp
+13:18:09.728 -> Encoding  : SONY
+13:18:09.728 -> Code      : 90 (12 bits)
+13:18:10.191 -> unsigned int  data = 0x490;
+
+TELE MENJADOR Progr UP
+13:18:41.185 -> Encoding  : SONY
+13:18:41.185 -> Code      : 90 (12 bits)
+13:18:41.622 -> unsigned int  data = 0x90;
+
+TELE MENJADOR Progr DOWN 
+13:19:19.085 -> Encoding  : SONY
+13:19:19.118 -> Code      : 890 (12 bits)
+13:19:19.557 -> unsigned int  data = 0x890;
+
+TELE MENJADOR MUTE
+Encoding  : SONY
+Code      : 5D0 (12 bits)
+unsigned int  data = 0x5D0;
+
+Tele Dormitori ONOFF
+Encoding  : NEC
+Code      : 20DF10EF (32 bits)
+unsigned int  data = 0x20DF10EF;
+
+Tele Dormitori VolUp
+Encoding  : NEC
+Code      : 20DF40BF (32 bits)
+unsigned int  data = 0x20DF40BF;
+
+Tele Dormitori VolDown
+Encoding  : NEC
+Code      : 20DFC03F (32 bits)
+unsigned int  data = 0x20DFC03F;
+
+Tele Dormitori ProgUp
+Encoding  : NEC
+Code      : 20DF00FF (32 bits)
+unsigned int  data = 0x20DF00FF;
+
+Tele Dormitori PROGDOWN
+Encoding  : NEC
+Code      : 20DF807F (32 bits)
+unsigned int  data = 0x20DF807F;
+
+Tele Dormitori MUTE
+Encoding  : NEC
+Code      : 20DF906F (32 bits)
+unsigned int  data = 0x20DF906F;
+
+PELLETS ON OFF
+Encoding  : NEC
+Code      : 807F807F (32 bits)
+unsigned int  data = 0x807F807F;
+
+PELLETS TEMP DOWN
+Encoding  : NEC
+Code      : 807F28D7 (32 bits)
+unsigned int  data = 0x807F28D7;
+
+PELLETS TEMP UP
+Encoding  : NEC
+Code      : 807F6897 (32 bits)
+unsigned int  data = 0x807F6897;
+
+PELLETS BUTTON AUTO
+Encoding  : NEC
+Code      : 807F906F (32 bits)
+unsigned int  data = 0x807F906F;
+
+PELLETS BUTTON GOTAS
+Encoding  : NEC
+Code      : 807F8877 (32 bits)
+unsigned int  data = 0x807F8877;
+
+ESPELMAS ON
+Encoding  : NEC
+Code      : FF807F (32 bits)
+unsigned int  data = 0xFF807F;
+
+
+ESPELMAS OFF
+Encoding  : NEC
+Code      : FF906F (32 bits)
+unsigned int  data = 0xFF906F;
+
+
+oooooooooooooooooosame list?ooooooooooooooooooo
+
+
+ESTUFA ORBEGOZO - ON-OFF
+Encoding  : NEC
+12:47:28.793 -> Code      : FF31CE (32 bits)
+12:47:29.802 -> unsigned int  data = 0xFF31CE;
+
+ESTUFA ORBEGOZO - Temp UP
+12:48:01.940 -> Encoding  : NEC
+12:48:01.940 -> Code      : FF19E6 (32 bits)
+12:48:02.990 -> unsigned int  data = 0xFF19E6;
+
+ESTUFA ORBEGOZO - Temp DOWN
+12:48:23.666 -> Encoding  : NEC
+12:48:23.700 -> Code      : FF29D6 (32 bits)
+12:48:24.745 -> unsigned int  data = 0xFF29D6;
+
+TELE MENJADOR ON OFF
+13:17:20.803 -> Encoding  : SONY
+13:17:20.803 -> Code      : A90 (12 bits)
+13:17:21.274 -> unsigned int  data = 0xA90;
+
+TELE MENJADOR VolDown
+13:17:46.678 -> Encoding  : SONY
+13:17:46.712 -> Code      : C90 (12 bits)
+13:17:47.153 -> unsigned int  data = 0xC90;
+
+TELE MENJADOR VolUp
+13:18:09.728 -> Encoding  : SONY
+13:18:09.728 -> Code      : 90 (12 bits)
+13:18:10.191 -> unsigned int  data = 0x490;
+
+TELE MENJADOR Progr UP
+13:18:41.185 -> Encoding  : SONY
+13:18:41.185 -> Code      : 90 (12 bits)
+13:18:41.622 -> unsigned int  data = 0x90;
+
+TELE MENJADOR Progr DOWN 
+13:19:19.085 -> Encoding  : SONY
+13:19:19.118 -> Code      : 890 (12 bits)
+13:19:19.557 -> unsigned int  data = 0x890;
+
+TELE MENJADOR MUTE
+Encoding  : SONY
+Code      : 5D0 (12 bits)
+unsigned int  data = 0x5D0;
+
+Tele Dormitori ONOFF
+Encoding  : NEC
+Code      : 20DF10EF (32 bits)
+unsigned int  data = 0x20DF10EF;
+
+Tele Dormitori VolUp
+Encoding  : NEC
+Code      : 20DF40BF (32 bits)
+unsigned int  data = 0x20DF40BF;
+
+Tele Dormitori VolDown
+Encoding  : NEC
+Code      : 20DFC03F (32 bits)
+unsigned int  data = 0x20DFC03F;
+
+Tele Dormitori ProgUp
+Encoding  : NEC
+Code      : 20DF00FF (32 bits)
+unsigned int  data = 0x20DF00FF;
+
+Tele Dormitori PROGDOWN
+Encoding  : NEC
+Code      : 20DF807F (32 bits)
+unsigned int  data = 0x20DF807F;
+
+Tele Dormitori MUTE
+Encoding  : NEC
+Code      : 20DF906F (32 bits)
+unsigned int  data = 0x20DF906F;
+
+PELLETS ON OFF
+Encoding  : NEC
+Code      : 807F807F (32 bits)
+unsigned int  data = 0x807F807F;
+
+PELLETS TEMP DOWN
+Encoding  : NEC
+Code      : 807F28D7 (32 bits)
+unsigned int  data = 0x807F28D7;
+
+PELLETS TEMP UP
+Encoding  : NEC
+Code      : 807F6897 (32 bits)
+unsigned int  data = 0x807F6897;
+
+PELLETS BUTTON AUTO
+Encoding  : NEC
+Code      : 807F906F (32 bits)
+unsigned int  data = 0x807F906F;
+
+PELLETS BUTTON GOTAS
+Encoding  : NEC
+Code      : 807F8877 (32 bits)
+unsigned int  data = 0x807F8877;
+
+ESPELMAS ON
+Encoding  : NEC
+Code      : FF807F (32 bits)
+unsigned int  data = 0xFF807F;
+
+
+ESPELMAS OFF
+Encoding  : NEC
+Code      : FF906F (32 bits)
+unsigned int  data = 0xFF906F;
+
+
+OOOOOOOOOOOOOOOOOOOOOOFULL RAW DUMPOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+ESTUFA ORBEGOZO - ON-OFF
+
+Encoding  : NEC
+12:47:28.793 -> Code      : FF31CE (32 bits)
+12:47:28.793 -> Timing[67]: 
+12:47:28.826 ->      +9050, -4450     + 600, - 500     + 650, - 500     + 600, - 500
+12:47:28.893 ->      + 650, - 500     + 600, - 500     + 650, - 450     + 650, - 500
+12:47:28.962 ->      + 650, - 450     + 650, -1600     + 650, -1600     + 650, -1600
+12:47:29.029 ->      + 650, -1600     + 650, -1600     + 650, -1600     + 650, -1600
+12:47:29.131 ->      + 650, -1600     + 650, - 450     + 650, - 500     + 650, -1550
+12:47:29.197 ->      + 700, -1600     + 600, - 500     + 650, - 450     + 650, - 500
+12:47:29.264 ->      + 650, -1600     + 650, -1600     + 650, -1600     + 650, - 500
+12:47:29.330 ->      + 600, - 500     + 650, -1600     + 650, -1600     + 600, -1650
+12:47:29.397 ->      + 650, - 450     + 650
+12:47:29.431 -> unsigned int  rawData[67] = {9050,4450, 600,500, 650,500, 600,500, 650,500, 600,500, 650,450, 650,500, 650,450, 650,1600, 650,1600, 650,1600, 650,1600, 650,1600, 650,1600, 650,1600, 650,1600, 650,450, 650,500, 650,1550, 700,1600, 600,500, 650,450, 650,500, 650,1600, 650,1600, 650,1600, 650,500, 600,500, 650,1600, 650,1600, 600,1650, 650,450, 650};  // NEC FF31CE
+12:47:29.802 -> unsigned int  data = 0xFF31CE;
+12:47:29.835 -> 
+
+
+ESTUFA ORBEGOZO - Temp UP
+12:48:01.940 -> Encoding  : NEC
+12:48:01.940 -> Code      : FF19E6 (32 bits)
+12:48:01.975 -> Timing[67]: 
+12:48:01.975 ->      +9100, -4400     + 650, - 500     + 600, - 500     + 650, - 450
+12:48:02.069 ->      + 650, - 500     + 650, - 450     + 650, - 500     + 650, - 450
+12:48:02.116 ->      + 650, - 500     + 650, -1600     + 650, -1600     + 650, -1600
+12:48:02.207 ->      + 650, -1600     + 600, -1600     + 650, -1650     + 600, -1600
+12:48:02.288 ->      + 650, -1600     + 650, - 500     + 650, - 450     + 650, - 500
+12:48:02.357 ->      + 650, -1550     + 700, -1600     + 600, - 500     + 650, - 450
+12:48:02.439 ->      + 650, -1650     + 650, -1600     + 600, -1600     + 650, -1650
+12:48:02.486 ->      + 600, - 500     + 650, - 450     + 650, -1650     + 600, -1600
+12:48:02.559 ->      + 650, - 500     + 650
+12:48:02.599 -> unsigned int  rawData[67] = {9100,4400, 650,500, 600,500, 650,450, 650,500, 650,450, 650,500, 650,450, 650,500, 650,1600, 650,1600, 650,1600, 650,1600, 600,1600, 650,1650, 600,1600, 650,1600, 650,500, 650,450, 650,500, 650,1550, 700,1600, 600,500, 650,450, 650,1650, 650,1600, 600,1600, 650,1650, 600,500, 650,450, 650,1650, 600,1600, 650,500, 650};  // NEC FF19E6
+12:48:02.990 -> unsigned int  data = 0xFF19E6;
+12:48:03.024 -> 
+
+ESTUFA ORBEGOZO - Temp DOWN
+12:48:23.666 -> Encoding  : NEC
+12:48:23.700 -> Code      : FF29D6 (32 bits)
+12:48:23.733 -> Timing[67]: 
+12:48:23.733 ->      +9000, -4500     + 550, - 550     + 600, - 500     + 600, - 600
+12:48:23.800 ->      + 500, - 600     + 550, - 550     + 550, - 550     + 600, - 550
+12:48:23.901 ->      + 600, - 500     + 550, -1750     + 550, -1650     + 600, -1650
+12:48:23.968 ->      + 550, -1700     + 600, -1650     + 550, -1700     + 550, -1700
+12:48:24.036 ->      + 600, -1650     + 550, - 600     + 550, - 550     + 550, -1700
+12:48:24.103 ->      + 600, - 500     + 550, -1700     + 600, - 550     + 550, - 550
+12:48:24.171 ->      + 600, -1650     + 550, -1700     + 600, -1700     + 500, - 550
+12:48:24.237 ->      + 650, -1650     + 550, - 550     + 600, -1650     + 550, -1700
+12:48:24.305 ->      + 550, - 550     + 600
+12:48:24.338 -> unsigned int  rawData[67] = {9000,4500, 550,550, 600,500, 600,600, 500,600, 550,550, 550,550, 600,550, 600,500, 550,1750, 550,1650, 600,1650, 550,1700, 600,1650, 550,1700, 550,1700, 600,1650, 550,600, 550,550, 550,1700, 600,500, 550,1700, 600,550, 550,550, 600,1650, 550,1700, 600,1700, 500,550, 650,1650, 550,550, 600,1650, 550,1700, 550,550, 600};  // NEC FF29D6
+12:48:24.745 -> unsigned int  data = 0xFF29D6;
+12:48:24.779 -> 
+
+Philips OFF -> ON
+
+12:51:40.933 -> Encoding  : RC6
+12:51:40.933 -> Code      : 1000C (20 bits)
+12:51:40.969 -> Timing[39]: 
+12:51:40.969 ->      +2650, - 900     + 450, - 850     + 500, - 400     + 450, - 400
+12:51:41.050 ->      +1400, -1300     + 450, - 400     + 450, - 450     + 450, - 450
+12:51:41.133 ->      + 450, - 450     + 450, - 400     + 500, - 400     + 450, - 450
+12:51:41.219 ->      + 450, - 450     + 450, - 400     + 450, - 450     + 500, - 400
+12:51:41.267 ->      + 900, - 400     + 450, - 900     + 450, - 450     + 450
+12:51:41.361 -> unsigned int  rawData[39] = {2650,900, 450,850, 500,400, 450,400, 1400,1300, 450,400, 450,450, 450,450, 450,450, 450,400, 500,400, 450,450, 450,450, 450,400, 450,450, 500,400, 900,400, 450,900, 450,450, 450};  // RC6 1000C
+12:51:41.594 -> unsigned int  data = 0x1000C;
+12:51:41.594 -> 
+12:51:47.339 -> Encoding  : RC6
+12:51:47.339 -> Code      : C (20 bits)
+12:51:47.372 -> Timing[41]: 
+12:51:47.406 ->      +2800, - 800     + 500, - 850     + 500, - 350     + 550, - 350
+12:51:47.474 ->      + 550, - 800     + 950, - 350     + 550, - 350     + 500, - 400
+12:51:47.542 ->      + 500, - 350     + 550, - 350     + 550, - 350     + 500, - 400
+12:51:47.609 ->      + 500, - 350     + 550, - 350     + 550, - 350     + 500, - 400
+12:51:47.676 ->      + 500, - 350     +1000, - 350     + 550, - 800     + 500, - 400
+12:51:47.777 ->      + 500
+12:51:47.777 -> unsigned int  rawData[41] = {2800,800, 500,850, 500,350, 550,350, 550,800, 950,350, 550,350, 500,400, 500,350, 550,350, 550,350, 500,400, 500,350, 550,350, 550,350, 500,400, 500,350, 1000,350, 550,800, 500,400, 500};  // RC6 C
+12:51:48.014 -> unsigned int  data = 0xC;
+12:51:48.048 -> 
+
+TELE MENJADOR ON OFF
+
+13:17:20.803 -> Encoding  : SONY
+13:17:20.803 -> Code      : A90 (12 bits)
+13:17:20.836 -> Timing[25]: 
+13:17:20.870 ->      +2400, - 550     +1250, - 550     + 650, - 550     +1250, - 550
+13:17:20.937 ->      + 650, - 550     +1200, - 600     + 600, - 550     + 650, - 550
+13:17:21.005 ->      +1250, - 550     + 650, - 550     + 650, - 550     + 600, - 600
+13:17:21.072 ->      + 600
+13:17:21.106 -> unsigned int  rawData[25] = {2400,550, 1250,550, 650,550, 1250,550, 650,550, 1200,600, 600,550, 650,550, 1250,550, 650,550, 650,550, 600,600, 600};  // SONY A90
+13:17:21.274 -> unsigned int  data = 0xA90;
+13:17:21.308 -> 
+
+
+TELE MENJADOR VolDown
+13:17:46.678 -> Encoding  : SONY
+13:17:46.712 -> Code      : 490 (12 bits)
+13:17:46.746 -> Timing[25]: 
+13:17:46.746 ->      +2400, - 550     + 650, - 550     +1250, - 550     + 650, - 550
+13:17:46.831 ->      + 650, - 550     +1200, - 600     + 600, - 550     + 650, - 550
+13:17:46.884 ->      +1250, - 500     + 700, - 550     + 650, - 550     + 650, - 550
+13:17:46.951 ->      + 600
+13:17:46.985 -> unsigned int  rawData[25] = {2400,550, 650,550, 1250,550, 650,550, 650,550, 1200,600, 600,550, 650,550, 1250,500, 700,550, 650,550, 650,550, 600};  // SONY 490
+13:17:47.153 -> unsigned int  data = 0x490;
+
+
+TELE MENJADOR VolUp
+13:18:09.728 -> Encoding  : SONY
+13:18:09.728 -> Code      : 90 (12 bits)
+13:18:09.773 -> Timing[25]: 
+13:18:09.773 ->      +2450, - 550     + 650, - 550     + 650, - 550     + 600, - 600
+13:18:09.834 ->      + 650, - 500     +1250, - 550     + 650, - 550     + 650, - 550
+13:18:09.934 ->      +1250, - 550     + 600, - 600     + 650, - 550     + 600, - 550
+13:18:10.031 ->      + 700
+13:18:10.031 -> unsigned int  rawData[25] = {2450,550, 650,550, 650,550, 600,600, 650,500, 1250,550, 650,550, 650,550, 1250,550, 600,600, 650,550, 600,550, 700};  // SONY 90
+13:18:10.191 -> unsigned int  data = 0x90;
+
+TELE MENJADOR Progr UP
+13:18:41.185 -> Encoding  : SONY
+13:18:41.185 -> Code      : 90 (12 bits)
+13:18:41.239 -> Timing[25]: 
+13:18:41.239 ->      +2450, - 550     + 650, - 550     + 600, - 600     + 600, - 600
+13:18:41.287 ->      + 600, - 550     +1250, - 550     + 650, - 550     + 650, - 550
+13:18:41.372 ->      +1200, - 600     + 600, - 600     + 600, - 600     + 600, - 550
+13:18:41.469 ->      + 650
+13:18:41.469 -> unsigned int  rawData[25] = {2450,550, 650,550, 600,600, 600,600, 600,550, 1250,550, 650,550, 650,550, 1200,600, 600,600, 600,600, 600,550, 650};  // SONY 90
+13:18:41.622 -> unsigned int  data = 0x90;
+
+
+TELE MENJADOR Progr DOWN 
+13:19:19.085 -> Encoding  : SONY
+13:19:19.118 -> Code      : 890 (12 bits)
+13:19:19.152 -> Timing[25]: 
+13:19:19.152 ->      +2450, - 550     +1200, - 600     + 600, - 600     + 600, - 600
+13:19:19.219 ->      + 600, - 550     +1200, - 600     + 600, - 600     + 600, - 600
+13:19:19.287 ->      +1200, - 600     + 600, - 550     + 650, - 550     + 650, - 550
+13:19:19.388 ->      + 600
+13:19:19.388 -> unsigned int  rawData[25] = {2450,550, 1200,600, 600,600, 600,600, 600,550, 1200,600, 600,600, 600,600, 1200,600, 600,550, 650,550, 650,550, 600};  // SONY 890
+13:19:19.557 -> unsigned int  data = 0x890;
+
+
+
